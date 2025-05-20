@@ -7,8 +7,8 @@ menuIcon.addEventListener('click', () => {
 
 document.getElementById('downloadBtn').addEventListener('click', function() {
     const link = document.createElement('a');
-    link.href = 'curriculum/2025_Currículo_GABRIELROCHALOPES.pdf';
-    link.download = '2025_Currículo_GABRIELROCHALOPES.pdf';
+    link.href = 'curriculum/2025_CURRÍCULO_GABRIELROCHALOPES.pdf';
+    link.download = '2025_CURRÍCULO_GABRIELROCHALOPES.pdf';
     link.click();
 });
 
